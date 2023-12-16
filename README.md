@@ -41,7 +41,26 @@ Installing USing YARN
 
 ``` 
 npx shadcn-ui@latest init
+
  ```
+
+## Authentication 
+
+ For Authentication Clerk is Used to install the clerk use following command
+ 
+Installing Using NPM
+```
+npm install @clerk/nextjs
+```
+Installing USing YARN
+
+``` 
+yarn add @clerk/nextjs
+ ```
+
+It is easy to use and follow the documentation.
+
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
