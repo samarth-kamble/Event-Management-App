@@ -29,6 +29,38 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
+
+## shadcn-ui
+This is NOT a component library. It's a collection of re-usable components that you can copy and paste into your apps.
+shadcn is used for a reusaable component
+Installing Using NPM
+```
+npx shadcn-ui@latest init
+```
+Installing USing YARN
+
+``` 
+npx shadcn-ui@latest init
+
+ ```
+
+## Authentication 
+
+ For Authentication Clerk is Used to install the clerk use following command
+ 
+Installing Using NPM
+```
+npm install @clerk/nextjs
+```
+Installing USing YARN
+
+``` 
+yarn add @clerk/nextjs
+ ```
+
+It is easy to use and follow the documentation.
+
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
