@@ -17,6 +17,7 @@
     "@uploadthing/react": "^6.0.2",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
+    "jsonwebtoken": "^9.0.2",
     "lucide-react": "^0.297.0",
     "mangodb": "^1.0.0",
     "mongodb": "^6.3.0",
